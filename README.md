@@ -25,7 +25,6 @@ I currently work as a **Python trainer and curriculum developer**, creating prac
 #### 🔭 Currently Learning & Exploring
 
 - Enhancing creative pipelines with **AI/ML**  
-- Automating workflows in **Maya** and **Nuke** using Python  
 - Building internal tools to simplify everyday technical tasks  
 - Learning and experimenting with tool ideas for the **space tech** domain 🚀
 
