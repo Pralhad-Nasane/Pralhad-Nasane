@@ -1,100 +1,183 @@
-<h1 align="center">👋 Hi, I'm Pralhad Nasane</h1>
-<p align="center">
-  <em>Python Developer | Technical Trainer | AI & Space Tech Enthusiast</em>
-</p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Pralhad+Nasane;Python+Developer+%7C+Technical+Trainer;Building+Tools;Open+to+Opportunities!" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
-  <em>"I combine creativity, curiosity, and code to build things that matter — here and maybe beyond."</em>
-</p>
-
-<p align="center">
-  <a href="https://in.linkedin.com/in/pralhadnasane" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Pralhad%20Nasane-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  <a href="https://in.linkedin.com/in/pralhadnasane">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Pralhad-Nasane">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://play.google.com/store/apps/developer?id=Pralhad+Nasane">
+    <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
   </a>
 </p>
 
----
-
-### 🧑‍💼 About Me
-
-Hi! I'm Pralhad — a developer and educator who enjoys using code to solve real-world problems.  
-I'm especially passionate about teaching Python and helping others build their foundation in tech.
-
-I currently work as a **Python trainer and curriculum developer**, creating practical, project-driven content focused on Python, APIs, and automation — specifically for professionals in the **VFX and media industry**.
-
-#### 🔭 Currently Learning & Exploring
-
-- Learning **AI/ML**  
-- Building internal tools to simplify everyday technical tasks / Scripts
-- Learning and experimenting with tool ideas for the **space tech** domain 🚀
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-India-2ea44f?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-brightgreen?style=flat-square" alt="Status"/>
+  <img src="https://komarev.com/ghpvc/?username=Pralhad-Nasane&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## About Me
 
-#### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<img align="right" alt="Avatar" width="200" src="https://raw.githubusercontent.com/Pralhad-Nasane/Pralhad-Nasane/main/avatar.gif"/>
 
-#### 📚 Frameworks & Libraries
-![PySide](https://img.shields.io/badge/PySide-20232A?style=flat-square&logo=qt&logoColor=white)
-![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white)
+```python
+class Pralhad:
+    role = "Python Developer & Technical Trainer"
+    location = "India"
+    focus = ["VFX Tools", "Automation", "Space Tech"]
+    
+    def currently_doing(self):
+        return "Building tools that make developers' lives easier"
+```
 
-#### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+**What I Do:**
+- Develop **Python-based tools** for the VFX and media industry
+- Build **Android apps** with focus on privacy and offline-first design
+- Create **practical, project-driven training** content
+- Build internal tools focused on **automation** and **developer productivity**
 
-#### 🎯 Areas of Interest
-![AI/ML](https://img.shields.io/badge/AI%2FML-black?style=flat-square&logo=ai&logoColor=white)
-![Space Innovation](https://img.shields.io/badge/Space%20Tech-blue?style=flat-square)
+**Currently Exploring:**
+- Next.js for modern web development
+- AI/ML for intelligent automation
+- Open-source contributions
+- Space tech domain tools
 
----
-
-### 🚀 Projects
-
-#### 🌐 [AviationBooks](https://github.com/Pralhad-Nasane/AviationBooks)  
-A responsive website where I’ve curated aviation books and manuals in one place.  
-I built this to help learners and aviation enthusiasts easily find quality reference material — organized clearly, and accessible on any device.
-
-**What I worked on:**  
-- Designed a clean layout with a focus on readability and structure  
-- Categorized resources by aircraft and topic for faster discovery  
-- Made it mobile-friendly for users on the go  
-
-**Tech Stack:**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<br clear="right"/>
 
 ---
 
-#### 📱 [PassMancer - Android App](https://play.google.com/store/apps/details?id=com.passmancer.android&hl=en&pli=1)  
-A simple and secure password generator app built using Kotlin.  
-I created this for people who want strong passwords without sharing data — it works completely offline and focuses on privacy.
+## Tech Stack
 
-**What I worked on:**
-- Offline-first architecture — no internet, no tracking  
-- Clean Android UI with password customization features  
-- Focused on performance and ease-of-use
+#### Languages & Core
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,kotlin,js,ts,html,css&theme=dark" alt="Languages"/>
+  </a>
+</p>
 
-**Key Features:**
-- 100% offline password generation (no internet access needed)
-- Modern UI built using Android Studio and Kotlin best practices
-- Simple UX with customizable password strength settings
+#### Frameworks & Libraries
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,flask,fastapi,qt&theme=dark" alt="Frameworks"/>
+  </a>
+</p>
 
-**Tech Stack:**  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20Design-757575?style=flat-square&logo=material-design&logoColor=white)
+#### Tools & Platforms
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux,docker&theme=dark" alt="Tools"/>
+  </a>
+</p>
+
+#### Areas of Interest
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Space_Tech-000080?style=for-the-badge&logo=nasa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VFX_Tools-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automation-00C853?style=for-the-badge"/>
+</p>
 
 ---
 
-### 🧠 Quotes I Live By
+## GitHub Stats
 
 <p align="center">
-  <em>"The Earth is the cradle of humanity, but one cannot live in the cradle forever."</em><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pralhad-Nasane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pralhad-Nasane&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pralhad-Nasane&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### AviationBooks
+A responsive website curating aviation books and manuals for learners and enthusiasts.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Pralhad-Nasane/AviationBooks)
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+<td width="50%">
+
+### PassMancer
+Offline-first password generator app on Google Play. No internet, no tracking.
+
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.passmancer.android)
+
+`Kotlin` `Android` `Material Design`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Gmail Filters Collection
+Open-source email organization with ready-to-use filters for different user personas.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Pralhad-Nasane/gmail-filters-collection)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pralhad-nasane.github.io/gmail-filters-collection/)
+
+`XML` `GitHub Pages`
+
+</td>
+<td width="50%">
+
+### Win11 Optimization Guide
+Comprehensive guide to optimize Windows 11 for better performance.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Pralhad-Nasane/win11-optimization-guide)
+
+`Documentation` `Windows`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pralhad-Nasane&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pralhad-Nasane/Pralhad-Nasane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+---
+
+<p align="center">
+  <em>"The Earth is the cradle of humanity, but one cannot live in the cradle forever."</em><br/>
   — <strong>Konstantin Tsiolkovsky</strong>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://in.linkedin.com/in/pralhadnasane">
+    <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Pralhad-Nasane?label=Followers&style=social" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Pralhad-Nasane?label=Stars&style=social" alt="Stars"/>
 </p>
