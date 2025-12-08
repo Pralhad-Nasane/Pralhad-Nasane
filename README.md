@@ -26,7 +26,6 @@
 
 ## About Me
 
-<div align="center">
 <a href="https://github.com/Pralhad-Nasane">
 <img src="https://raw.githubusercontent.com/Pralhad-Nasane/Pralhad-Nasane/main/avatar.gif" width="180" align="right" style="margin-left: 20px;"/>
 </a>
@@ -40,8 +39,6 @@ class Pralhad:
     def currently_doing(self):
         return "Building tools that make developers' lives easier"
 ```
-
-</div>
 
 **What I Do:**
 - Develop **Python-based tools** for VFX and media industry
