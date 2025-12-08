@@ -26,7 +26,9 @@
 
 ## About Me
 
-<img align="right" alt="Avatar" width="200" src="https://raw.githubusercontent.com/Pralhad-Nasane/Pralhad-Nasane/main/avatar.gif"/>
+<table>
+<tr>
+<td width="60%">
 
 ```python
 class Pralhad:
@@ -50,7 +52,14 @@ class Pralhad:
 - Open-source contributions
 - Space tech domain tools
 
-<br clear="right"/>
+</td>
+<td width="40%" align="center">
+
+<img alt="Avatar" width="250" src="https://raw.githubusercontent.com/Pralhad-Nasane/Pralhad-Nasane/main/avatar.gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -87,15 +96,17 @@ class Pralhad:
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pralhad-Nasane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pralhad-Nasane&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <a href="https://github.com/Pralhad-Nasane">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pralhad-Nasane&theme=tokyonight" alt="GitHub Profile Summary"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pralhad-Nasane&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pralhad-Nasane&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pralhad-Nasane&theme=tokyonight&utcOffset=5.5" height="150"/>
 </p>
 
 ---
