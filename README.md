@@ -108,12 +108,13 @@ class Pralhad:
 <tr>
 <td width="50%">
 
-### AviationBooks
-A responsive website curating aviation books and manuals for learners and enthusiasts.
+### Awesome OBS Collections
+A curated awesome-list of open-source OBS Studio plugins, scripts, tools, and themes for streamers.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Pralhad-Nasane/AviationBooks)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Pralhad-Nasane/awesome-obs-collections)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pralhad-nasane.github.io/awesome-obs-collections/)
 
-`HTML` `CSS` `JavaScript`
+`Awesome List` `OBS` `Streaming`
 
 </td>
 <td width="50%">
@@ -130,6 +131,16 @@ Offline-first password generator app on Google Play. No internet, no tracking.
 <tr>
 <td width="50%">
 
+### AviationBooks
+A responsive website curating aviation books and manuals for learners and enthusiasts.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Pralhad-Nasane/AviationBooks)
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+<td width="50%">
+
 ### Gmail Filters Collection
 Open-source email organization with ready-to-use filters for different user personas.
 
@@ -139,6 +150,8 @@ Open-source email organization with ready-to-use filters for different user pers
 `XML` `GitHub Pages`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### Win11 Optimization Guide
@@ -147,6 +160,9 @@ Comprehensive guide to optimize Windows 11 for better performance.
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Pralhad-Nasane/win11-optimization-guide)
 
 `Documentation` `Windows`
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
